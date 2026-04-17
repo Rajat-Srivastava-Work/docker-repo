@@ -119,7 +119,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>StudentSpringBootProject</finalName>
+		<finalName>studentmanagementapp</finalName>
 	</build>
 
 </project>

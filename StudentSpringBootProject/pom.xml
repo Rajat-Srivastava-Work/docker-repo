@@ -119,6 +119,7 @@
 				</executions>
 			</plugin>
 		</plugins>
+		<finalName>StudentSpringBootProject</finalName>
 	</build>
 
 </project>
